@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Nossa primeira API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "start:dev": "nodemon"
+  },
+  "keywords": [
+    "primeira",
+    "api"
+  ],
+  "author": "Francisco",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  },
+  "type": "module"
+}
