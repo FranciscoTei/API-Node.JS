@@ -15,7 +15,7 @@
 *foobar
 *baz
 *.txt
-
+node_modules/
 # Less common
 *qux
 *quux
